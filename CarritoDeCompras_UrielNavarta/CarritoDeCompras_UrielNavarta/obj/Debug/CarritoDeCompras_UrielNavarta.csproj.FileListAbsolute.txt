@@ -1,0 +1,7 @@
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\obj\Debug\CarritoDeCompras_UrielNavarta.csproj.AssemblyReference.cache
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\obj\Debug\CarritoDeCompras_UrielNavarta.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\bin\Debug\CarritoDeCompras_UrielNavarta.exe.config
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\bin\Debug\CarritoDeCompras_UrielNavarta.exe
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\bin\Debug\CarritoDeCompras_UrielNavarta.pdb
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\obj\Debug\CarritoDeCompras_UrielNavarta.exe
+C:\Users\Uriel\source\repos\CarritoDeCompras_UrielNavarta\CarritoDeCompras_UrielNavarta\obj\Debug\CarritoDeCompras_UrielNavarta.pdb
