@@ -12,12 +12,12 @@ namespace CarritoDeCompras_UrielNavarta
         {
 
             bool terminar = false;
-            Camisa carrito = new Camisa();
+            Utilidad menu = new Utilidad();
 
 
             do
             {
-                carrito.menuprincipal(ref terminar);
+                menu.menuprincipal(ref terminar);
 
             } while (!terminar);
 

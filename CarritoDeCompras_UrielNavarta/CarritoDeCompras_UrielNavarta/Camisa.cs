@@ -10,7 +10,7 @@ namespace CarritoDeCompras_UrielNavarta
     {
         private int precio;
         private int cantidad;
-        private bool terminar;
+   
 
 
         public Camisa()
@@ -101,52 +101,7 @@ namespace CarritoDeCompras_UrielNavarta
         }
 
       
-        public void menuprincipal(ref bool terminar)
-        {
-            int opcionMenu;
-
-            Console.WriteLine("SHOPPING ONLINE - MENU PRINCIPAL");
-            Console.WriteLine("--------");
-            Console.WriteLine("1. AÑADIR CAMISA AL CARRO DE COMPRAS.");
-            Console.WriteLine("2. QUITAR CAMISA DEL CARRO DE COMPRAS");
-            Console.WriteLine("3. SALIR");
-            Console.WriteLine("--------");
-            Console.WriteLine("¿QUÉ DESEA HACER?");
-            Console.WriteLine("--------");
-            Console.WriteLine();
-            Console.WriteLine("             -CAMISAS: {0}", getCantidad());
-            Console.WriteLine("             -PRECIO: {0}", getPrecio());
-            Console.WriteLine("             -DESCUENTO: {0}%", descuentoPorcentage(getCantidad()));
-            Console.WriteLine("             -PRECIO FINAL: {0}",descuento() );
-            opcionMenu = Convert.ToInt32(Console.ReadLine());
-
-            if(opcionMenu == 1)
-            {
-                setCantidad();
-            }if(opcionMenu == 2)
-            {
-                setCantidadNegativo();
-            }if(opcionMenu == 3)
-            {
-                Console.Clear();
-                Console.WriteLine("¿DESEA SALIR?");
-                char salir2 = 'U';
-                salir2 = Convert.ToChar(Console.ReadLine());
-                if(salir2 == 'S')
-                {
-                   terminar = true;
-                }
-                if(salir2 == 'N')
-                {
-                    terminar = false;
-                }
-                else
-                {
-                    Console.WriteLine("LA OPCIÓN INGRESADA ES INCORRECTA.");
-                }
-                
-
-            }
+ 
         }
 
     }
@@ -154,4 +109,4 @@ namespace CarritoDeCompras_UrielNavarta
     
 
 
-}
+
