@@ -1,0 +1,10 @@
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.csproj.AssemblyReference.cache
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.frmPrincipal.resources
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.Properties.Resources.resources
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.csproj.GenerateResource.cache
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\bin\Debug\VisualTest.exe.config
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\bin\Debug\VisualTest.exe
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\bin\Debug\VisualTest.pdb
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.exe
+C:\Users\Uriel\source\repos\VisualTest\VisualTest\obj\Debug\VisualTest.pdb
