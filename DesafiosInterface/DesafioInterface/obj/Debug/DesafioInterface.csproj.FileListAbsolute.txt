@@ -1,0 +1,7 @@
+C:\Users\Uriel\source\repos\DesafioInterface\bin\Debug\DesafioInterface.exe.config
+C:\Users\Uriel\source\repos\DesafioInterface\bin\Debug\DesafioInterface.exe
+C:\Users\Uriel\source\repos\DesafioInterface\bin\Debug\DesafioInterface.pdb
+C:\Users\Uriel\source\repos\DesafioInterface\obj\Debug\DesafioInterface.csproj.AssemblyReference.cache
+C:\Users\Uriel\source\repos\DesafioInterface\obj\Debug\DesafioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\source\repos\DesafioInterface\obj\Debug\DesafioInterface.exe
+C:\Users\Uriel\source\repos\DesafioInterface\obj\Debug\DesafioInterface.pdb
