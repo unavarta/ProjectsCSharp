@@ -1,0 +1,10 @@
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.Form1.resources
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.Properties.Resources.resources
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\bin\Debug\ProjectSiemens.exe.config
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\bin\Debug\ProjectSiemens.exe
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\bin\Debug\ProjectSiemens.pdb
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.exe
+C:\Users\Rafael\source\repos\ProjectSiemens\ProjectSiemens\obj\Debug\ProjectSiemens.pdb
