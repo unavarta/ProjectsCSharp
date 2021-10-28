@@ -1,0 +1,10 @@
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\bin\Debug\desafioWinForms.exe.config
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\bin\Debug\desafioWinForms.exe
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\bin\Debug\desafioWinForms.pdb
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.csproj.AssemblyReference.cache
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.Form1.resources
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.Properties.Resources.resources
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.csproj.GenerateResource.cache
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.exe
+C:\Users\Marco Peñafort\source\repos\desafioWinForms\obj\Debug\desafioWinForms.pdb
